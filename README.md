@@ -1,1 +1,1 @@
-# OSTicket-Ticketing-System
+# osTicket Ticketing System Installation and Configuration
